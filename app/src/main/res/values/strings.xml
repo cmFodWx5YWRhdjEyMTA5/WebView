@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simple WebView</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Simple WebView</string>
+    <string name="nav_header_subtitle">Android WebView Example</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="copy_right">Copyrights © %1$d</string>
+    <string name="description">Android WebView Example</string>
+
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Silahkan edit url ini untuk reskin sesuaikan dg url kalian -->
+    <string name="url_1">https://gameoftheyear.withgoogle.com/</string>
+    <string name="url_2">https://forindonesia.withgoogle.com/intl/id/</string>
+    <string name="url_3">https://forindonesia.withgoogle.com/intl/id/education/</string>
+    <string name="url_4">https://admob.google.com/home/get-started/</string>
+
+
+</resources>
